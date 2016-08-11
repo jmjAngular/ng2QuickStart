@@ -1,11 +1,5 @@
 node_modules
+typings
 npm-debug.log
 .idea
 *~
-.gitignore
-app.component.js
-app.component.js.map
-app.module.js
-app.module.js.map
-main.js
-main.js.map
